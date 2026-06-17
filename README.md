@@ -33,7 +33,8 @@ This project presents an interactive Power BI dashboard for analyzing PhonePe tr
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+<img width="1329" height="705" alt="Dashboard phone pay" src="https://github.com/user-attachments/assets/1bc0043d-30d8-438a-bbdf-bd7ba52a69f1" />
+
 
 ## 👨‍💻 Author
 
