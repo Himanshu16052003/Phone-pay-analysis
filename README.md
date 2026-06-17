@@ -1,4 +1,4 @@
-# Phone-pay-analysis
+# PhonePe-analysis
 # 📊 PhonePe Transaction Analysis Dashboard
 
 ## 📌 Project Overview
